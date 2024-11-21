@@ -1,0 +1,1395 @@
+﻿Log file open, 11/20/24 14:54:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Mutation
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.579631
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Games/UE4/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.11.20-13.54.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:095][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.20-13.54.21:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.11.20-13.54.21:132][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.20-13.54.21:132][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.11.20-13.54.21:132][  0]LogHAL: Display: Platform has ~ 16 GB [17091518464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.11.20-13.54.21:132][  0]LogInit: Going up to parent DeviceProfile []
+[2024.11.20-13.54.21:132][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.11.20-13.54.21:132][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Scalability.ini]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.11.20-13.54.21:133][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.11.20-13.54.21:192][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.11.20-13.54.21:192][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.11.20-13.54.21:192][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.11.20-13.54.21:192][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Engine.ini]
+[2024.11.20-13.54.21:192][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Config/Windows/Editor.ini]
+[2024.11.20-13.54.21:192][  0]LogInit: Computer: DESKTOP-MF5G7JG
+[2024.11.20-13.54.21:192][  0]LogInit: User: Radan
+[2024.11.20-13.54.21:192][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.11.20-13.54.21:192][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.11.20-13.54.21:193][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.11.20-13.54.21:193][  0]LogMemory: Platform Memory Stats for Windows
+[2024.11.20-13.54.21:193][  0]LogMemory: Process Physical Memory: 146.48 MB used, 152.38 MB peak
+[2024.11.20-13.54.21:193][  0]LogMemory: Process Virtual Memory: 122.33 MB used, 122.33 MB peak
+[2024.11.20-13.54.21:193][  0]LogMemory: Physical Memory: 12120.36 MB used,  4179.39 MB free, 16299.74 MB total
+[2024.11.20-13.54.21:193][  0]LogMemory: Virtual Memory: 134213256.00 MB used,  4473.55 MB free, 134217728.00 MB total
+[2024.11.20-13.54.21:199][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.11.20-13.54.22:557][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.11.20-13.54.22:566][  0]LogInit: Using OS detected language (cs-CZ).
+[2024.11.20-13.54.22:566][  0]LogInit: Using OS detected locale (cs-CZ).
+[2024.11.20-13.54.22:631][  0]LogTextLocalizationManager: No localization for 'cs-CZ' exists, so 'en' will be used for the language.
+[2024.11.20-13.54.23:396][  0]LogInit: Setting process to per monitor DPI aware
+[2024.11.20-13.54.23:455][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.20-13.54.23:718][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.11.20-13.54.23:718][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.11.20-13.54.29:566][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.11.20-13.54.29:681][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2024.11.20-13.54.29:681][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.11.20-13.54.29:681][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.11.20-13.54.29:681][  0]LogD3D11RHI: D3D11 adapters:
+[2024.11.20-13.54.29:851][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2024.11.20-13.54.29:852][  0]LogD3D11RHI:       8024/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.11.20-13.54.29:855][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.11.20-13.54.29:855][  0]LogD3D11RHI:       0/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:    2. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:       8024/0/8149 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     DeviceId    : 2489
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     SubSysId    : 405e1458
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     DedicatedVideoMemory : 8413773824 bytes
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     SharedSystemMemory : 8545759232 bytes
+[2024.11.20-13.54.29:975][  0]LogD3D11RHI:     AdapterLuid : 0 53448
+[2024.11.20-13.54.29:984][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.11.20-13.54.29:984][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2024.11.20-13.54.29:984][  0]LogWindows: EnumDisplayDevices:
+[2024.11.20-13.54.29:984][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2024.11.20-13.54.29:984][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2024.11.20-13.54.29:984][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2024.11.20-13.54.29:984][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2024.11.20-13.54.29:985][  0]LogWindows:    4. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:985][  0]LogWindows:    5. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:985][  0]LogWindows:    6. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:985][  0]LogWindows:    7. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:985][  0]LogWindows:    8. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:985][  0]LogWindows:    9. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:986][  0]LogWindows:    10. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:986][  0]LogWindows:    11. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:986][  0]LogWindows:    12. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:986][  0]LogWindows:    13. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:986][  0]LogWindows:    14. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:986][  0]LogWindows:    15. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:987][  0]LogWindows:    16. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:987][  0]LogWindows:    17. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:987][  0]LogWindows:    18. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:987][  0]LogWindows:    19. 'Parsec Virtual Display Adapter' (P:0 D:0)
+[2024.11.20-13.54.29:987][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.11.20-13.54.29:987][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2024.11.20-13.54.29:987][  0]LogD3D11RHI:   Driver Version: 561.09 (internal:32.0.15.6109, unified:561.09)
+[2024.11.20-13.54.29:987][  0]LogD3D11RHI:      Driver Date: 9-5-2024
+[2024.11.20-13.54.29:987][  0]LogRHI: Texture pool is 5616 MB (70% of 8024 MB)
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Ti
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     DeviceId    : 2489
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     SubSysId    : 405e1458
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     DedicatedVideoMemory : 8413773824 bytes
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     SharedSystemMemory : 8545759232 bytes
+[2024.11.20-13.54.29:988][  0]LogD3D11RHI:     AdapterLuid : 0 53448
+[2024.11.20-13.54.30:110][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.11.20-13.54.30:111][  0]LogD3D11RHI: Async texture creation enabled
+[2024.11.20-13.54.30:111][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.11.20-13.54.30:311][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.11.20-13.54.30:398][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.11.20-13.54.31:490][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.11.20-13.54.31:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.11.20-13.54.31:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.11.20-13.54.31:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.11.20-13.54.31:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.11.20-13.54.31:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.11.20-13.54.31:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.11.20-13.54.31:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.11.20-13.54.31:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.11.20-13.54.31:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.11.20-13.54.31:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.11.20-13.54.31:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.11.20-13.54.31:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.11.20-13.54.32:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.11.20-13.54.32:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.11.20-13.54.32:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.11.20-13.54.32:096][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.11.20-13.54.32:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.11.20-13.54.32:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.11.20-13.54.32:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.11.20-13.54.32:195][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.11.20-13.54.32:223][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.11.20-13.54.32:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.11.20-13.54.32:248][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.11.20-13.54.32:423][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.11.20-13.54.32:937][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.11.20-13.54.34:621][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.11.20-13.54.34:621][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (C:/Users/Radan/Desktop/GeneticAlgoritm3D/Intermediate/Shaders/WorkingDirectory/24464/).
+[2024.11.20-13.54.34:621][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Radan/AppData/Local/Temp/UnrealShaderWorkingDir/CF156A7A4D71A6C78F5155A041A40B36/'.
+[2024.11.20-13.54.34:622][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.11.20-13.54.34:622][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.11.20-13.54.34:622][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.11.20-13.54.45:963][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.11.20-13.54.46:067][  0]LogDerivedDataCache: Loaded boot cache 0.10s 94MB C:/Users/Radan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.11.20-13.54.46:067][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Radan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.11.20-13.54.46:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Radan/Desktop/GeneticAlgoritm3D/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.11.20-13.54.46:068][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.11.20-13.54.46:068][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Radan/Desktop/GeneticAlgoritm3D/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.20-13.54.46:068][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.11.20-13.54.46:168][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.11.20-13.54.46:168][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.11.20-13.54.46:168][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.11.20-13.54.46:181][  0]LogDerivedDataCache: Speed tests for C:/Users/Radan/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.11.20-13.54.46:181][  0]LogDerivedDataCache: Display: Performance to C:/Users/Radan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=238.77MBs, RandomWriteSpeed=129.67MBs. Assigned SpeedClass 'Local'
+[2024.11.20-13.54.46:182][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Radan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.11.20-13.54.46:182][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.11.20-13.54.46:182][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.11.20-13.54.46:232][  0]LogSlate: Using FreeType 2.10.0
+[2024.11.20-13.54.46:251][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.11.20-13.54.46:786][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2024.11.20-13.54.47:323][  0]LogInit: Selected Device Profile: [Windows]
+[2024.11.20-13.54.47:324][  0]LogInit: Active device profile: [00000264BC4A3A00][00000264BB70DA00 49] Windows
+[2024.11.20-13.54.47:324][  0]LogInit: Profiles: [00000264BC4A3A00][00000264BB70DA00 49] Windows, [00000264BC460700][00000264BB715B80 49] WindowsNoEditor, [00000264BC4A0800][00000264BB718180 49] WindowsServer, [00000264BC463200][00000264BB71C300 49] WindowsClient, [00000264BC4A3100][00000264BB720480 49] IOS, [00000264BC461100][00000264BB7105C0 49] iPadAir, [00000264BC4A1000][00000264BB724700 49] iPadAir2, [00000264BC418200][00000264BB72C940 49] IPadPro, [00000264BC418300][00000264BB728980 49] iPadAir3, [00000264BC4A2B00][00000264BB734B00 49] iPadAir4, [00000264BC41B400][00000264BB738C80 49] iPadMini2, [00000264BC4A1500][00000264BB73CE00 49] iPadMini3, [00000264BC419500][00000264BB740F80 49] iPadMini4, [00000264BC4A2300][00000264BB745100 49] iPadMini5, [00000264BC40BA00][00000264BB74D3C0 49] iPhone6, [00000264BC40BB00][00000264BB749400 49] iPodTouch6, [00000264BC41B000][00000264BB7556C0 49] iPhone7, [00000264BC41AF00][00000264BB751700 49] iPodTouch7, [00000264BC408C00][00000264BB759880 49] iPhone5S, [00000264BC419000][00000264BB75DA00 49] iPhone6Plus, [00000264BC40AD00][00000264BB761B80 49] iPhone6S, [00000264BC41B600][00000264BB764180 49] iPhone6SPlus, [00000264BC409400][00000264BB768300 49] iPhone7Plus, [00000264BC419200][00000264BB76C480 49] iPhoneSE, [00000264BC40A500][00000264BB770600 49] iPhone8, [00000264BC419700][00000264BB730740 49] iPhone8Plus, [00000264BC409C00][00000264BB774880 49] iPhoneX, [00000264BC41A000][00000264BB7789C0 49] iPhoneXS, [00000264BC408500][00000264BB77CB00 49] iPhoneXSMax, [00000264BC419B00][00000264BB784C80 49] iPhoneXR, [00000264BC409D00][00000264BB788E00 49] iPhone11, [00000264BC41AD00][00000264BB78CF80 49] iPhone11Pro, [00000264BC409700][00000264BB791100 49] iPhone11ProMax, [00000264BC41BD00][00000264BB795280 49] iPhoneSE2, [00000264BC40A400][00000264BB799400 49] iPhone12Mini, [00000264BC418900][00000264BB79D580 49] iPhone12, [00000264BC40AB00][00000264BBFD1700 49] iPhone12Pro, [00000264BC41AE00][00000264BBFD5880 49] iPhone12ProMax, [00000264BC409900][00000264BBFD9A00 49] iPadPro105, [00000264BC41A100][00000264BBFDDB80 49] iPadPro129, [00000264BC409600][00000264BBFE0180 49] iPadPro97, [00000264BC41BE00][00000264BBFE4300 49] iPadPro2_129, [00000264BC408300][00000264BBFE8480 49] iPad5, [00000264BC41BC00][00000264BBFEC600 49] iPad6, [00000264BC409200][00000264BBFF0780 49] iPad7, [00000264BC419C00][00000264BBFF4900 49] iPad8, [00000264BC40BE00][00000264BB780A40 49] iPadPro11, [00000264BC41A800][00000264BBFF8B80 49] iPadPro2_11, [00000264BC409500][00000264BBFFCCC0 49] iPadPro3_129, [00000264BC41A200][00000264BC004E40 49] iPadPro4_129, [00000264BC409100][00000264BC008FC0 49] AppleTV, [00000264BC41AC00][00000264BC00D140 49] AppleTV4K, [00000264BC409000][00000264BC0112C0 49] TVOS, [00000264BC418400][00000264BC015440 49] Mac, [00000264BC408D00][00000264BC0195C0 49] MacClient, [00000264BC419F00][00000264BC01D740 49] MacNoEditor, [00000264BC40B300][00000264BC0218C0 49] MacServer, [00000264BC41B200][00000264BC025A40 49] Linux, [00000264BC408A00][00000264BC029BC0 49] LinuxAArch64, [00000264BC418700][00000264BC02C1C0 49] LinuxNoEditor, [00000264BC40A300][00000264BC030340 49] LinuxAArch64NoEditor, [00000264BC419E00][00000264BC0344C0 49] LinuxClient, [00000264BC409B00][00000264BC038640 49] LinuxAArch64Client, [00000264BC418C00][00000264BC03C7C0 49] LinuxServer, [00000264BC40B500][00000264BC040940 49] LinuxAArch64Server, [00000264BC419600][00000264BC044AC0 49] Android, [00000264BC462F00][00000264BC000C00 49] Android_Low, [00000264BC4D5100][00000264BC048D40 49] Android_Mid, [00000264BC462C00][00000264BC04CE80 49] Android_High, [00000264BC4D5B00][00000264BC050FC0 49] Android_Default, [00000264BC463E00][00000264BC059140 49] Android_Adreno4xx, [00000264BC4D6300][00000264BC05D2C0 49] Android_Adreno5xx_Low, [00000264BC461E00][00000264BC061440 49] Android_Adreno5xx, [00000264BC4D5F00][00000264BC0655C0 49] Android_Adreno6xx, [00000264BC460F00][00000264BC069740 49] Android_Adreno6xx_Vulkan, [00000264BC4D4E00][00000264BC06D8C0 49] Android_Mali_T6xx, [00000264BC461A00][00000264BC071A40 49] Android_Mali_T7xx, [00000264BC4D6200][00000264BC075BC0 49] Android_Mali_T8xx, [00000264BC463700][00000264BC0781C0 49] Android_Mali_G71, [00000264BC4D4200][00000264BC07C340 49] Android_Mali_G72, [00000264BC462200][00000264BC0804C0 49] Android_Mali_G72_Vulkan, [00000264BC4D6600][00000264BC084640 49] Android_Mali_G76, [00000264BC463600][00000264BC0887C0 49] Android_Mali_G76_Vulkan, [00000264BC4D4800][00000264BC08C940 49] Android_Mali_G77, [00000264BC463000][00000264BC090AC0 49] Android_Mali_G77_Vulkan, [00000264BC4D4900][00000264BC094C40 49] Android_Mali_G78, [00000264BC460300][00000264BC054D80 49] Android_Mali_G78_Vulkan, [00000264BC4D5200][00000264BC098EC0 49] Android_Mali_G710, [00000264BC460B00][00000264BC09D000 49] Android_Mali_G710_Vulkan, [00000264BC4D5800][00000264BC0A1140 49] Android_Vulkan_SM5, [00000264BC419100][00000264BC0A92C0 49] Android_PowerVR_G6xxx, [00000264BC4D5C00][00000264BC0AD440 49] Android_PowerVR_GT7xxx, [00000264BC419800][00000264BC0B15C0 49] Android_PowerVR_GE8xxx, [00000264BC4D4C00][00000264BC0B5740 49] Android_PowerVR_GM9xxx, [00000264BC418F00][00000264BC0B98C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000264BC4D5700][00000264BC0BDA40 49] Android_TegraK1, [00000264BC41A700][00000264BC0C1BC0 49] Android_Unknown_Vulkan, [00000264BC4D4300][00000264BC0C41C0 49] Lumin, [00000264BC418A00][00000264BC0C8340 49] Lumin_Desktop, [00000264BC4D5600][00000264BC0CC4C0 49] HoloLens, 
+[2024.11.20-13.54.48:505][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.11.20-13.54.48:505][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.11.20-13.54.48:505][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.11.20-13.54.48:505][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.11.20-13.54.48:505][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.11.20-13.54.48:673][  0]LogNetVersion: Mutation 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2188911693)
+[2024.11.20-13.55.02:840][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.11.20-13.55.03:077][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.11.20-13.55.03:114][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.11.20-13.55.03:114][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.11.20-13.55.03:114][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.11.20-13.55.04:718][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B2B6D0D04C66B5C54FCD36A6E0AE1B7E | Instance: 364BB56A4B64DF567B307381E4AFBD39 (DESKTOP-MF5G7JG-24464).
+[2024.11.20-13.55.05:592][  0]LogPython: Using Python 3.7.7
+[2024.11.20-13.55.06:660][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.11.20-13.55.06:686][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.11.20-13.55.07:995][  0]LogLinker: Warning: Failed to load '/Game/TPS_Multiplayer_Pack/TPS_StarterPack_AI': Can't find file.
+[2024.11.20-13.55.07:995][  0]LogLinker: Warning: Failed to load '/Game/TPS_Multiplayer_Pack/TPS_StarterPack_AI': Can't find file.
+[2024.11.20-13.55.07:995][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TPS_Multiplayer_Pack/TPS_StarterPack_AI.TPS_StarterPack_AI_C'
+[2024.11.20-13.55.07:995][  0]LogLinker: Warning: Failed to load '/Game/TPS_Multiplayer_Pack/TPS_Starter_Pack_WeaponsAndCover': Can't find file.
+[2024.11.20-13.55.07:995][  0]LogLinker: Warning: Failed to load '/Game/TPS_Multiplayer_Pack/TPS_Starter_Pack_WeaponsAndCover': Can't find file.
+[2024.11.20-13.55.07:995][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TPS_Multiplayer_Pack/TPS_Starter_Pack_WeaponsAndCover.TPS_Starter_Pack_WeaponsAndCover_C'
+[2024.11.20-13.55.08:801][  0]SourceControl: Source control is disabled
+[2024.11.20-13.55.09:631][  0]LogUProjectInfo: Found projects:
+[2024.11.20-13.55.10:441][  0]LogOpenImageDenoise: OIDN starting up
+[2024.11.20-13.55.10:621][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.11.20-13.55.10:681][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.11.20-13.55.10:681][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.11.20-13.55.11:935][  0]LogOcInput: OculusInput pre-init called
+[2024.11.20-13.55.12:297][  0]LogCollectionManager: Loaded 0 collections in 0.002045 seconds
+[2024.11.20-13.55.12:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Collections/' took 0.00s
+[2024.11.20-13.55.12:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radan/Desktop/GeneticAlgoritm3D/Content/Developers/Radan/Collections/' took 0.00s
+[2024.11.20-13.55.12:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radan/Desktop/GeneticAlgoritm3D/Content/Collections/' took 0.00s
+[2024.11.20-13.55.12:663][  0]LogEngine: Initializing Engine...
+[2024.11.20-13.55.12:782][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.11.20-13.55.12:824][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2024.11.20-13.55.12:824][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.11.20-13.55.12:824][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.11.20-13.55.13:322][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.11.20-13.55.13:371][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.11.20-13.55.13:372][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.11.20-13.55.13:392][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.20-13.55.13:406][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.20-13.55.13:406][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 2: FrontCenter
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 3: LowFrequency
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 4: BackLeft
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 5: BackRight
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 6: SideLeft
+[2024.11.20-13.55.13:439][  0]LogAudioMixer: Display: 7: SideRight
+[2024.11.20-13.55.13:455][  0]LogAudioMixer: Display: Using Audio Device Reproduktory (Logitech G533 Gaming Headset)
+[2024.11.20-13.55.13:456][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.20-13.55.13:499][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.20-13.55.13:499][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.20-13.55.13:500][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.20-13.55.13:500][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.20-13.55.13:500][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.11.20-13.55.13:501][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.20-13.55.13:501][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.20-13.55.13:501][  0]LogInit: FAudioDevice initialized.
+[2024.11.20-13.55.13:501][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.11.20-13.55.13:501][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.11.20-13.55.13:572][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/Radan/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.11.20-13.55.13:577][  0]LogInit: Texture streaming: Enabled
+[2024.11.20-13.55.13:640][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.11.20-13.55.13:659][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.11.20-13.55.13:659][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.11.20-13.55.13:661][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.11.20-13.55.13:773][  0]LogInit: Transaction tracking system initialized
+[2024.11.20-13.55.13:944][  0]BlueprintLog: New page: Editor Load
+[2024.11.20-13.55.14:562][  0]LocalizationService: Localization service is disabled
+[2024.11.20-13.55.14:819][  0]TimingProfiler: Initialize
+[2024.11.20-13.55.14:820][  0]TimingProfiler: OnSessionChanged
+[2024.11.20-13.55.14:820][  0]LoadingProfiler: Initialize
+[2024.11.20-13.55.14:820][  0]LoadingProfiler: OnSessionChanged
+[2024.11.20-13.55.14:820][  0]NetworkingProfiler: Initialize
+[2024.11.20-13.55.14:821][  0]NetworkingProfiler: OnSessionChanged
+[2024.11.20-13.55.14:821][  0]MemoryProfiler: Initialize
+[2024.11.20-13.55.14:821][  0]MemoryProfiler: OnSessionChanged
+[2024.11.20-13.55.18:687][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.11.20-13.55.18:687][  0]LogCook: Display: Mobile HDR setting 1
+[2024.11.20-13.55.19:245][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Radan/Desktop/GeneticAlgoritm3D/Content/' took 0.00s
+[2024.11.20-13.55.22:233][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.11.20-13.55.22:264][  0]LogUnrealEdMisc: Loading editor; pre map load, took 149.294
+[2024.11.20-13.55.22:264][  0]Cmd: MAP LOAD FILE="C:/Users/Radan/Desktop/GeneticAlgoritm3D/Content/TwinStickBP/Maps/TwinStickExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.11.20-13.55.22:265][  0]LightingResults: New page: Lighting Build
+[2024.11.20-13.55.22:291][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.11.20-13.55.22:291][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-13.55.22:291][  0]MapCheck: New page: Map Check
+[2024.11.20-13.55.22:291][  0]LightingResults: New page: Lighting Build
+[2024.11.20-13.55.22:295][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.20-13.55.22:298][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.11.20-13.55.22:878][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TwinStickExampleMap'.
+[2024.11.20-13.55.22:879][  0]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2024.11.20-13.55.22:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.11.20-13.55.22:923][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.20-13.55.22:924][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.11.20-13.55.22:924][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,234ms to complete.
+[2024.11.20-13.55.22:924][  0]LogFileHelpers: Loading map 'TwinStickExampleMap' took 0.660
+[2024.11.20-13.55.22:926][  0]LogUnrealEdMisc: Total Editor Startup Time, took 149.957
+[2024.11.20-13.55.23:167][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-13.55.23:174][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-13.55.23:181][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-13.55.23:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-13.55.23:283][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0442 seconds. Added 3822 classes and 928 folders.
+[2024.11.20-13.55.23:372][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.11.20-13.55.23:415][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.11.20-13.55.23:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.11.20-13.55.23:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:415][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.11.20-13.55.23:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2024.11.20-13.55.23:438][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.11.20-13.55.23:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.11.20-13.55.23:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.11.20-13.55.23:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2024.11.20-13.55.23:455][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.11.20-13.55.23:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.11.20-13.55.23:455][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:455][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.11.20-13.55.23:455][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.11.20-13.55.23:475][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.11.20-13.55.23:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.11.20-13.55.23:475][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:475][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.11.20-13.55.23:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2024.11.20-13.55.23:492][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.11.20-13.55.23:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.11.20-13.55.23:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.11.20-13.55.23:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2024.11.20-13.55.23:510][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.11.20-13.55.23:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.11.20-13.55.23:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.11.20-13.55.23:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2024.11.20-13.55.23:523][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.11.20-13.55.23:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.11.20-13.55.23:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:524][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.11.20-13.55.23:524][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2024.11.20-13.55.23:542][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.11.20-13.55.23:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.11.20-13.55.23:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.11.20-13.55.23:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.11.20-13.55.23:558][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.11.20-13.55.23:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.11.20-13.55.23:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:558][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.11.20-13.55.23:559][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2024.11.20-13.55.23:585][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.11.20-13.55.23:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.11.20-13.55.23:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.11.20-13.55.23:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2024.11.20-13.55.23:603][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.11.20-13.55.23:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.11.20-13.55.23:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:603][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.11.20-13.55.23:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2024.11.20-13.55.23:630][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.11.20-13.55.23:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.11.20-13.55.23:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:630][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.11.20-13.55.23:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2024.11.20-13.55.23:648][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.11.20-13.55.23:648][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:648][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.11.20-13.55.23:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:648][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.11.20-13.55.23:648][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2024.11.20-13.55.23:661][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.11.20-13.55.23:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:661][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.11.20-13.55.23:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.11.20-13.55.23:661][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.11.20-13.55.23:701][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.11.20-13.55.23:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.11.20-13.55.23:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:702][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.11.20-13.55.23:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2024.11.20-13.55.23:777][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.11.20-13.55.23:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.23:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.11.20-13.55.23:777][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.23:777][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.11.20-13.55.23:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2024.11.20-13.55.24:515][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.11.20-13.55.24:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.24:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.11.20-13.55.24:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.24:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.11.20-13.55.24:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.11.20-13.55.25:821][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.11.20-13.55.25:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.25:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.11.20-13.55.25:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.25:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.11.20-13.55.25:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2024.11.20-13.55.26:926][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.11.20-13.55.26:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.26:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.11.20-13.55.26:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.26:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.11.20-13.55.26:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.11.20-13.55.27:144][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.11.20-13.55.27:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.27:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.11.20-13.55.27:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.27:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.11.20-13.55.27:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2024.11.20-13.55.27:332][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.11.20-13.55.27:332][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.27:332][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.11.20-13.55.27:332][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.27:332][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.11.20-13.55.27:332][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2024.11.20-13.55.27:513][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.11.20-13.55.27:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.27:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.11.20-13.55.27:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.27:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.11.20-13.55.27:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2024.11.20-13.55.27:757][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.11.20-13.55.27:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.27:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.11.20-13.55.27:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.27:757][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.11.20-13.55.27:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2024.11.20-13.55.28:229][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.11.20-13.55.28:229][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.28:229][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.11.20-13.55.28:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.28:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.11.20-13.55.28:229][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2024.11.20-13.55.28:240][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.11.20-13.55.28:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.28:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.11.20-13.55.28:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.28:241][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.11.20-13.55.28:241][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2024.11.20-13.55.28:290][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.11.20-13.55.28:290][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.11.20-13.55.28:290][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.11.20-13.55.28:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Games/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.11.20-13.55.28:290][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Games/UE4/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.11.20-13.55.28:290][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2024.11.20-13.55.29:743][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.11.20-13.55.29:744][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2024.11.20-13.55.30:002][  0]LogSlate: Took 0.010765 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.11.20-13.55.30:015][  0]LogSlate: Took 0.012635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.11.20-13.55.30:022][  0]LogSlate: Took 0.005818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.11.20-13.55.30:206][  0]LogRenderer: Reallocating scene render targets to support 1220x580 Format 10 NumSamples 1 (Frame:1).
+[2024.11.20-13.55.30:769][  0]LogSlate: Took 0.006291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.20-13.55.30:876][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.11.20-13.55.30:876][  0]LogLoad: (Engine Initialization) Total time: 157.91 seconds
+[2024.11.20-13.55.30:876][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.11.20-13.55.30:978][  0]LogAssetRegistry: Asset discovery search completed in 44.1936 seconds
+[2024.11.20-13.55.31:082][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.11.20-13.55.31:084][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.11.20-13.55.31:152][  1]LogRenderer: Reallocating scene render targets to support 1220x596 Format 10 NumSamples 1 (Frame:2).
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public: 'E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/AlembicImporter/Source/AlembicLibrary/Public' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Runtime/NavigationSystem/Public/AbstractNavData.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes: 'E:/Games/UE4/UE_4.27/Engine/Plugins/Online/OnlineSubsystemUtils/Source/OnlineSubsystemUtils/Classes' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Classes/GameFramework/Actor.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Editor/Blutility/Classes/ActorActionUtility.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Classes/Engine/ActorChannel.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Classes/Components/ActorComponent.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Runtime/Engine/Public/ComponentInstanceDataCache.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Editor/UnrealEd/Classes/ActorFactories: 'E:/Games/UE4/UE_4.27/Engine/Source/Editor/UnrealEd/Classes/ActorFactories' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Source/ChaosSolverEditor/Private/Chaos/ActorFactoryChaosSolver.h: 'E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Source/ChaosSolverEditor/Private/Chaos/ActorFactoryChaosSolver.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheEd/Classes/ActorFactoryGeometryCache.h: 'E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/GeometryCache/Source/GeometryCacheEd/Classes/ActorFactoryGeometryCache.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Source/GeometryCollectionEditor/Private/GeometryCollection/ActorFactoryGeometryCollection.h: 'E:/Games/UE4/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Source/GeometryCollectionEditor/Private/GeometryCollection/ActorFactoryGeometryCollection.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Editor/LandscapeEditor/Private/Classes/ActorFactoryLandscape.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Editor/LandscapeEditor/Private/Classes/ActorFactoryLandscape.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Source/Editor/UnrealEd/Private/Factories/ActorFactoryLevelSequence.h: 'E:/Games/UE4/UE_4.27/Engine/Source/Editor/UnrealEd/Private/Factories/ActorFactoryLevelSequence.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-13.55.32:582][  5]SourceControl: fatal: E:/Games/UE4/UE_4.27/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Public/ActorFactoryNiagara.h: 'E:/Games/UE4/UE_4.27/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Public/ActorFactoryNiagara.h' is outside repository at 'C:/Users/Radan/Desktop/GeneticAlgoritm3D'
+[2024.11.20-14.08.33:114][982]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.11.20-14.08.33:127][982]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TwinStickBP/Blueprints/MorphManager.MorphManager
+[2024.11.20-14.08.33:609][982]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.11.20-14.08.34:691][982]LogSlate: Took 0.011571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.11.20-14.08.40:228][553]LogSlate: Took 0.016436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.11.20-14.11.47:709][707]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.11.47:797][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2024.11.20-14.12.57:129][911]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.12.57:215][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2024.11.20-14.13.03:875][507]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.13.03:962][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.11.20-14.13.06:012][717]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.20-14.13.06:018][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.20-14.13.06:167][717]PIE: New page: PIE session: TwinStickExampleMap (20. 11. 2024 16:13:06)
+[2024.11.20-14.13.06:168][717]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.11.20-14.13.06:169][717]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.11.20-14.13.06:170][717]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2024.11.20-14.13.06:173][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2024.11.20-14.13.06:218][717]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2024.11.20-14.13.06:219][717]LogPlayLevel: PIE: World Init took: (0.045656s)
+[2024.11.20-14.13.06:219][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.049101s)
+[2024.11.20-14.13.06:238][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.11.20-14.13.06:238][717]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.20-14.13.06:239][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.20-14.13.06:239][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.20-14.13.06:239][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.20-14.13.06:239][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.20-14.13.06:239][717]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 1: FrontRight
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 2: FrontCenter
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 3: LowFrequency
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 4: BackLeft
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 5: BackRight
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 6: SideLeft
+[2024.11.20-14.13.06:244][717]LogAudioMixer: Display: 7: SideRight
+[2024.11.20-14.13.06:251][717]LogAudioMixer: Display: Using Audio Device Reproduktory (Logitech G533 Gaming Headset)
+[2024.11.20-14.13.06:252][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.20-14.13.06:252][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.20-14.13.06:252][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.20-14.13.06:252][717]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.20-14.13.06:252][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.20-14.13.06:252][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.11.20-14.13.06:253][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.20-14.13.06:253][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.20-14.13.06:253][717]LogInit: FAudioDevice initialized.
+[2024.11.20-14.13.06:253][717]LogAudio: Display: Audio Device (ID: 2) registered with world 'TwinStickExampleMap'.
+[2024.11.20-14.13.06:259][717]LogLoad: Game class is 'TwinStickGameMode_C'
+[2024.11.20-14.13.06:260][717]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2024.11.20-15.13.06
+[2024.11.20-14.13.06:260][717]LogWorld: Bringing up level for play took: 0.000578
+[2024.11.20-14.13.06:260][717]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2024.11.20-14.13.06:282][717]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.11.20-14.13.06:285][717]PIE: Server logged in
+[2024.11.20-14.13.06:287][717]PIE: Play in editor total start time 0,27 seconds.
+[2024.11.20-14.13.06:289][717]LogScript: Warning: Script Msg: Attempted to access index 103 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:643][722]LogScript: Warning: Script Msg: Attempted to access index 104 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:651][723]LogScript: Warning: Script Msg: Attempted to access index 105 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:659][724]LogScript: Warning: Script Msg: Attempted to access index 106 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:668][725]LogScript: Warning: Script Msg: Attempted to access index 107 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:726][732]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:734][733]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:743][734]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:926][756]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:934][757]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:942][758]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:951][759]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.06:959][760]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:142][782]LogScript: Warning: Script Msg: Attempted to access index -5 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:150][783]LogScript: Warning: Script Msg: Attempted to access index -6 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:176][786]LogScript: Warning: Script Msg: Attempted to access index -7 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:184][787]LogScript: Warning: Script Msg: Attempted to access index -8 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:192][788]LogScript: Warning: Script Msg: Attempted to access index -9 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:200][789]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:200][789]LogScript: Warning: Script Msg: Attempted to access index -10 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:209][790]LogScript: Warning: Script Msg: Attempted to access index -9 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:217][791]LogScript: Warning: Script Msg: Attempted to access index -8 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:267][797]LogScript: Warning: Script Msg: Attempted to access index -8 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:276][798]LogScript: Warning: Script Msg: Attempted to access index -7 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:301][801]LogScript: Warning: Script Msg: Attempted to access index -6 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:309][802]LogScript: Warning: Script Msg: Attempted to access index -5 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:318][803]LogScript: Warning: Script Msg: Attempted to access index -4 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:385][811]LogScript: Warning: Script Msg: Attempted to access index -2 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:393][812]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:393][812]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:401][813]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:410][814]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:418][815]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:426][816]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:435][817]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:443][818]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:443][818]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:451][819]LogScript: Warning: Script Msg: Attempted to access index -2 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:459][820]LogScript: Warning: Script Msg: Attempted to access index -3 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:477][822]LogScript: Warning: Script Msg: Attempted to access index -3 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:485][823]LogScript: Warning: Script Msg: Attempted to access index -2 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:584][835]LogScript: Warning: Script Msg: Attempted to access index -4 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:593][836]LogScript: Warning: Script Msg: Attempted to access index -5 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:692][848]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:701][849]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:709][850]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:718][851]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:726][852]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:734][853]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:742][854]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:751][855]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:792][860]LogScript: Warning: Script Msg: Attempted to access index 102 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:801][861]LogScript: Warning: Script Msg: Attempted to access index 101 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:809][862]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:809][862]LogScript: Warning: Script Msg: Attempted to access index 100 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:818][863]LogScript: Warning: Script Msg: Attempted to access index 101 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:826][864]LogScript: Warning: Script Msg: Attempted to access index 102 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:868][869]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:876][870]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:885][871]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.07:893][872]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:010][886]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:018][887]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:026][888]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:034][889]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:043][890]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:053][891]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:053][891]LogScript: Warning: Script Msg: Attempted to access index 109 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:060][892]LogScript: Warning: Script Msg: Attempted to access index 108 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:093][896]LogScript: Warning: Script Msg: Attempted to access index 108 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:102][897]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:102][897]LogScript: Warning: Script Msg: Attempted to access index 109 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:109][898]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:118][899]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:126][900]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:184][907]LogScript: Warning: Script Msg: Attempted to access index 107 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:193][908]LogScript: Warning: Script Msg: Attempted to access index 106 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:201][909]LogScript: Warning: Script Msg: Attempted to access index 105 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:209][910]LogScript: Warning: Script Msg: Attempted to access index 104 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:251][915]LogScript: Warning: Script Msg: Attempted to access index 103 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] START
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 1.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 1.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 0.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 0.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 0.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 0.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 0.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 1.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 1.0
+[2024.11.20-14.13.08:278][915]LogBlueprintUserMessages: [MorphManager_C_0] 1.0
+[2024.11.20-14.13.08:554][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.08:554][927]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.08:554][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.08:554][927]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.08:554][927]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.08:852][944]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.08:852][944]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.08:852][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.08:852][944]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.08:852][944]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.09:154][961]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.09:154][961]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.09:154][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.09:154][961]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.09:155][961]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.09:454][978]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.09:454][978]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.09:454][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.09:454][978]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.09:454][978]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.09:757][996]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.09:757][996]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.09:757][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.09:757][996]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.09:757][996]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:060][ 13]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.10:060][ 13]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.10:061][ 13]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:061][ 13]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.10:061][ 13]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:363][ 33]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.10:363][ 33]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.10:364][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:364][ 33]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.10:364][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:653][ 55]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.10:653][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0566
+[2024.11.20-14.13.10:653][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:653][ 55]LogScript: Warning: Accessed None
+	Player_HUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Player_HUD_C_0
+	Function /Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD:0547
+[2024.11.20-14.13.10:653][ 55]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:956][ 80]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.10:956][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.10:956][ 80]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.11:264][104]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.11:264][104]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.11:264][104]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.11:566][123]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.11:566][123]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.11:566][123]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.11:852][141]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.11:852][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.11:852][141]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:158][159]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.12:158][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:158][159]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:456][179]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.12:456][179]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:456][179]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:763][203]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/TwinStickBP/Blueprints/Player_HUD.Player_HUD_C:ExecuteUbergraph_Player_HUD'!
+[2024.11.20-14.13.12:763][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:763][203]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Player_HUD Function:  Execute Ubergraph Player HUD Graph:  ForEachLoop Node:  Branch
+[2024.11.20-14.13.12:796][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-14.13.12:796][203]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2024.11.20-14.13.12:797][203]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.20-14.13.12:797][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-14.13.12:804][203]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.20-14.13.12:809][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-14.13.12:827][203]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.20-14.13.12:827][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.20-14.13.12:829][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.20-14.13.12:830][203]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-14.13.12:858][203]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.11.20-14.13.12:928][203]LogSlate: Took 0.013862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.11.20-14.13.12:945][204]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.11.20-14.13.15:150][439]LogSlate: Window 'Message Log' being destroyed
+[2024.11.20-14.13.15:156][439]LogSlate: Window 'Message Log' being destroyed
+[2024.11.20-14.13.31:720][809]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.13.31:811][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2024.11.20-14.13.35:986][170]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.13.36:073][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.11.20-14.13.39:168][500]LogTemp: Repeating last play command: Selected Viewport
+[2024.11.20-14.13.39:174][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.20-14.13.39:174][500]PIE: New page: PIE session: TwinStickExampleMap (20. 11. 2024 16:13:39)
+[2024.11.20-14.13.39:205][500]LogPlayLevel: Creating play world package: /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2024.11.20-14.13.39:208][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003144s)
+[2024.11.20-14.13.39:210][500]LogAIModule: Creating AISystem for world TwinStickExampleMap
+[2024.11.20-14.13.39:210][500]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2024.11.20-14.13.39:210][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TwinStickBP/Maps/TwinStickExampleMap.TwinStickExampleMap to /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap (0.004903s)
+[2024.11.20-14.13.39:234][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.11.20-14.13.39:235][500]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.20-14.13.39:235][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.20-14.13.39:235][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.20-14.13.39:235][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.20-14.13.39:235][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.20-14.13.39:235][500]LogAudioMixer: Display: Initializing audio mixer.
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 0: FrontLeft
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 1: FrontRight
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 2: FrontCenter
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 3: LowFrequency
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 4: BackLeft
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 5: BackRight
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 6: SideLeft
+[2024.11.20-14.13.39:240][500]LogAudioMixer: Display: 7: SideRight
+[2024.11.20-14.13.39:247][500]LogAudioMixer: Display: Using Audio Device Reproduktory (Logitech G533 Gaming Headset)
+[2024.11.20-14.13.39:247][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.20-14.13.39:247][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.20-14.13.39:247][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.20-14.13.39:248][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.11.20-14.13.39:248][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.11.20-14.13.39:248][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2024.11.20-14.13.39:249][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.11.20-14.13.39:249][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.11.20-14.13.39:249][500]LogInit: FAudioDevice initialized.
+[2024.11.20-14.13.39:249][500]LogAudio: Display: Audio Device (ID: 3) registered with world 'TwinStickExampleMap'.
+[2024.11.20-14.13.39:260][500]LogLoad: Game class is 'TwinStickGameMode_C'
+[2024.11.20-14.13.39:261][500]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap.TwinStickExampleMap up for play (max tick rate 0) at 2024.11.20-15.13.39
+[2024.11.20-14.13.39:261][500]LogWorld: Bringing up level for play took: 0.000613
+[2024.11.20-14.13.39:261][500]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2024.11.20-14.13.39:265][500]PIE: Server logged in
+[2024.11.20-14.13.39:266][500]PIE: Play in editor total start time 0,093 seconds.
+[2024.11.20-14.13.39:266][500]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:370][510]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:378][511]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:386][512]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:387][512]LogScript: Warning: Script Msg: Attempted to access index 100 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:395][513]LogScript: Warning: Script Msg: Attempted to access index 101 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:404][514]LogScript: Warning: Script Msg: Attempted to access index 102 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:412][515]LogScript: Warning: Script Msg: Attempted to access index 103 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:421][516]LogScript: Warning: Script Msg: Attempted to access index 104 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:429][517]LogScript: Warning: Script Msg: Attempted to access index 105 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:537][530]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:545][531]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:553][532]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:561][533]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:561][533]LogScript: Warning: Script Msg: Attempted to access index -10 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:570][534]LogScript: Warning: Script Msg: Attempted to access index -9 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:611][539]LogScript: Warning: Script Msg: Attempted to access index -8 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:620][540]LogScript: Warning: Script Msg: Attempted to access index -7 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:670][546]LogScript: Warning: Script Msg: Attempted to access index -5 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:678][547]LogScript: Warning: Script Msg: Attempted to access index -6 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:687][548]LogScript: Warning: Script Msg: Attempted to access index -5 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:695][549]LogScript: Warning: Script Msg: Attempted to access index -4 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:703][550]LogScript: Warning: Script Msg: Attempted to access index -3 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:778][559]LogScript: Warning: Script Msg: Attempted to access index -2 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:786][560]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:786][560]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:795][561]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:803][562]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:811][563]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.39:820][564]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:020][588]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:028][589]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:045][591]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:053][592]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:062][593]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:103][598]LogScript: Warning: Script Msg: Attempted to access index 106 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:112][599]LogScript: Warning: Script Msg: Attempted to access index 107 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:120][600]LogScript: Warning: Script Msg: Attempted to access index 108 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:153][604]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:162][605]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:162][605]LogScript: Warning: Script Msg: Attempted to access index 109 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:170][606]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:186][608]LogScript: Warning: Script Msg: Attempted to access index 108 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:195][609]LogScript: Warning: Script Msg: Attempted to access index 107 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:203][610]LogScript: Warning: Script Msg: Attempted to access index 106 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:245][615]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:254][616]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:336][626]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:345][627]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:353][628]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:361][629]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:370][630]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:370][630]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:378][631]LogScript: Warning: Script Msg: Attempted to access index -2 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:454][640]LogScript: Warning: Script Msg: Attempted to access index -3 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:462][641]LogScript: Warning: Script Msg: Attempted to access index -4 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:470][642]LogScript: Warning: Script Msg: Attempted to access index -5 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:521][648]LogScript: Warning: Script Msg: Attempted to access index -7 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:529][649]LogScript: Warning: Script Msg: Attempted to access index -8 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:571][654]LogScript: Warning: Script Msg: Attempted to access index -9 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:579][655]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:579][655]LogScript: Warning: Script Msg: Attempted to access index -10 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:588][656]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:596][657]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:604][658]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:613][659]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:629][661]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:638][662]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:762][677]LogScript: Warning: Script Msg: Attempted to access index 105 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:770][678]LogScript: Warning: Script Msg: Attempted to access index 104 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:779][679]LogScript: Warning: Script Msg: Attempted to access index 103 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:787][680]LogScript: Warning: Script Msg: Attempted to access index 102 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:795][681]LogScript: Warning: Script Msg: Attempted to access index 101 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:804][682]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:804][682]LogScript: Warning: Script Msg: Attempted to access index 100 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:812][683]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:820][684]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:829][685]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:837][686]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:938][698]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'VisitedMazeCells' of length 100 in '/Game/TwinStickBP/Blueprints/Maze2D.Maze2D_C'!
+[2024.11.20-14.13.40:996][698]LogBlueprintUserMessages: [MorphManager_C_0] 1
+[2024.11.20-14.13.47:988][163]LogBlueprintUserMessages: [MorphManager_C_0] 2
+[2024.11.20-14.13.55:004][596]LogBlueprintUserMessages: [MorphManager_C_0] 3
+[2024.11.20-14.14.02:022][ 34]LogBlueprintUserMessages: [MorphManager_C_0] 4
+[2024.11.20-14.14.09:054][466]LogBlueprintUserMessages: [MorphManager_C_0] 5
+[2024.11.20-14.14.17:063][969]LogBlueprintUserMessages: [MorphManager_C_0] 6
+[2024.11.20-14.14.25:090][463]LogBlueprintUserMessages: [MorphManager_C_0] 7
+[2024.11.20-14.14.34:098][ 26]LogBlueprintUserMessages: [MorphManager_C_0] 8
+[2024.11.20-14.14.43:102][592]LogBlueprintUserMessages: [MorphManager_C_0] 9
+[2024.11.20-14.14.53:413][892]LogBlueprintUserMessages: [MorphManager_C_0] 10
+[2024.11.20-14.15.03:487][922]LogBlueprintUserMessages: [MorphManager_C_0] 11
+[2024.11.20-14.15.14:579][955]LogBlueprintUserMessages: [MorphManager_C_0] 12
+[2024.11.20-14.15.25:670][988]LogBlueprintUserMessages: [MorphManager_C_0] 13
+[2024.11.20-14.15.37:773][ 24]LogBlueprintUserMessages: [MorphManager_C_0] 14
+[2024.11.20-14.15.49:867][ 60]LogBlueprintUserMessages: [MorphManager_C_0] 15
+[2024.11.20-14.16.02:925][ 99]LogBlueprintUserMessages: [MorphManager_C_0] 16
+[2024.11.20-14.16.16:398][192]LogBlueprintUserMessages: [MorphManager_C_0] 17
+[2024.11.20-14.16.18:166][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-14.16.18:166][293]LogWorld: BeginTearingDown for /Game/TwinStickBP/Maps/UEDPIE_0_TwinStickExampleMap
+[2024.11.20-14.16.18:167][293]LogWorld: UWorld::CleanupWorld for TwinStickExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.20-14.16.18:169][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-14.16.18:176][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.20-14.16.18:182][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.20-14.16.18:203][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.20-14.16.18:203][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.20-14.16.18:204][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.11.20-14.16.18:207][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.20-14.16.18:220][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.11.20-14.16.18:235][294]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.11.20-14.16.46:920][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.11.20-14.16.46:928][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TwinStickBP/Maps/TwinStickExampleMap' took 0.031
+[2024.11.20-14.16.46:969][464]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TwinStickBP/Blueprints/MorphManager] ([2] browsable assets)...
+[2024.11.20-14.16.47:019][464]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TwinStickBP/Blueprints/MorphManager.MorphManager]
+[2024.11.20-14.16.47:019][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/TwinStickBP/Blueprints/MorphManager]
+[2024.11.20-14.16.47:352][464]LogSavePackage: Moving 'C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/MorphManager_Auto161DA51AB4E4D374F470250BDCAB41FA2.tmp' to 'C:/Users/Radan/Desktop/GeneticAlgoritm3D/Saved/Autosaves/Game/TwinStickBP/Blueprints/MorphManager_Auto1.uasset'
+[2024.11.20-14.16.47:353][464]LogFileHelpers: Auto-saving content packages took 0.400
+[2024.11.20-14.18.13:768][797]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.20-14.19.03:604][165]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.19.03:712][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2024.11.20-14.19.20:502][729]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.20-14.19.20:502][729]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.20-14.19.21:215][800]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.20-14.19.21:215][800]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.11.20-14.19.26:774][323]BlueprintLog: New page: Compile MorphManager
+[2024.11.20-14.19.26:863][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.11.20-14.19.47:089][173]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.11.20-14.19.47:295][173]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.205 s
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: === Handled ensure: ===
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: 
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: Ensure condition failed: !InputKeys.Contains(Key) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/InputCore/Private/InputCoreTypes.cpp] [Line: 976]
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: Adding duplicate key 'UnknownCharCode_283'
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: Stack: 
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff99f7747a8 UE4Editor-InputCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff99f71acfc UE4Editor-InputCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff99f71e994 UE4Editor-InputCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff98f6a8690 UE4Editor-Slate.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff9ad7cbcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff9ad7b92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff9ad7ce465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff9ad7b4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ffa4b33ef5c USER32.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ffa4b33e684 USER32.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff9ad7cfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff66c7d7621 UE4Editor.exe!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff66c7f0fcc UE4Editor.exe!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff66c7f10ba UE4Editor.exe!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff66c7f40dd UE4Editor.exe!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff66c805984 UE4Editor.exe!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ff66c80853a UE4Editor.exe!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ffa4aa07374 KERNEL32.DLL!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: [Callstack] 0x00007ffa4c2fcc91 ntdll.dll!UnknownFunction []
+[2024.11.20-14.19.47:295][173]LogOutputDevice: Error: 
